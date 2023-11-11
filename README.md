@@ -11,4 +11,6 @@ Output:
 
 
 Text Output:
+
+
 Rain is a common occurrence in Japan, particularly during the rainy season known as "Tsuyu" or the "plum rain season." This typically takes place between June and July, affecting most parts of the country. It is characterized by frequent rainfall, overcast skies, and high humidity. The rainy season is important for agriculture because it helps nourish crops like rice, but it can also bring heavy downpours and occasionally lead to flooding in some areas. In addition to the rainy season, Japan experiences rain throughout the year, with different regions having their own precipitation patterns. It's always a good idea to check the weather forecast when planning activities in Japan, especially during the rainy season.
